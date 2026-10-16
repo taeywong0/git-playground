@@ -4,3 +4,4 @@
 ## 학습 내용
 - 5주차 실물 사례와 함께 git 다루기
 - [ ] cherry pick
+- [x] cherry pick
